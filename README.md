@@ -21,3 +21,6 @@ En el caso de que el proyecto incluya desarrollo de software para PC (MATLAB, Py
 ## Instrucciones para usar la plantilla
 * Edite el README.md de su repositorio según los datos de su materia y grupo.
 
+
+(Borrar cuando editen el README.md) novel: estoy probando si puedo editar su repositorio
+
