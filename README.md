@@ -2,8 +2,8 @@
 Este repositorio es una plantilla para ser usada en la materia ECXXXX. Modifique el contenido de esta plantilla para adaptarlo a su proyecto manteniendo la estructura de carpetas que se explica en [Estructura del repositorio](#Estructura-del-repositorio).
 
 ## Integrantes del equipo
-* 02-34759 Novel Antonio Certad Hernández
-* 11-55555 Alan Brito Delgado
+* 07-40794 Fulvio D'Addazio
+* 14-10477 Harold Harting
 
 ## Estructura del repositorio
 ### docs/
@@ -19,9 +19,5 @@ En la carpeta firmware/ deben colocarse los archivos relevantes del código que 
 En el caso de que el proyecto incluya desarrollo de software para PC (MATLAB, Python, LabVIEW, etc) el código/proyecto respectivo debe ir dentro de este directorio.
 
 ## Instrucciones para usar la plantilla
-* Haga click sobre la opción 'use this template' en la parte superior del repositorio.
-* Aparecera la ventana para crear un repositorio basado en esta plantilla.
-* Debe crear el repositorio dentro de la organización correspondiente a la materia y no dentro de su cuenta personal de GitHub.
-* El nombre del repositorio debe ser ECXXXX-GXX.
 * Edite el README.md de su repositorio según los datos de su materia y grupo.
 
